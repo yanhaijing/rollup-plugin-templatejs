@@ -2,10 +2,17 @@
   "name": "rollup-plugin-templatejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "lib"
+  ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "rollup-pluginutils": "^2.8.2",
+    "template_js": "^0.6.1"
+  }
 }
