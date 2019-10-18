@@ -12,6 +12,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "esprima": "^4.0.1",
+    "estraverse": "^4.3.0",
     "rollup-pluginutils": "^2.8.2",
     "template_js": "^0.6.1"
   }
