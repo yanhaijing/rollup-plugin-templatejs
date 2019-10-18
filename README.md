@@ -1,4 +1,4 @@
-# rollup-plugin-templatejs [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yanhaijing/template-loader/blob/master/LICENSE)
+# rollup-plugin-templatejs [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yanhaijing/rollup-plugin-templatejs/blob/master/LICENSE)
 
 [template.js](https://github.com/yanhaijing/template.js)的rollup编译插件——一款javascript模板引擎。
 
